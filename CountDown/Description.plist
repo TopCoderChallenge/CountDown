@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>url</key>
+		<string>www.hou-xiang.com</string>
+		<key>msg</key>
+		<string>Do one thing at a time, and do well.</string>
+		<key>img</key>
+		<string>http://img.article.pchome.net/00/24/24/05/pic_lib/s960x639/015s960x639.jpg</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>url</key>
+		<string>www.163.com</string>
+		<key>msg</key>
+		<string>Never forget to say “thanks”.</string>
+		<key>img</key>
+		<string>http://bbs.photoker.com/photos/upload/0169-33-1383914515.jpg</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>url</key>
+		<string>www.baidu.com</string>
+		<key>msg</key>
+		<string>Keep on going never give up.</string>
+		<key>img</key>
+		<string>http://img.article.pchome.net/00/24/24/05/pic_lib/wm/021.jpg</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>url</key>
+		<string>www.qq.com</string>
+		<key>msg</key>
+		<string>Whatever is worth doing is worth doing well.</string>
+		<key>img</key>
+		<string>http://img.article.pchome.net/00/24/24/05/pic_lib/wm/020.jpg</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>url</key>
+		<string>www.sina.com</string>
+		<key>msg</key>
+		<string>Believe in yourself.</string>
+		<key>img</key>
+		<string>http://img.article.pchome.net/00/24/58/07/pic_lib/s960x639/024s960x639.jpg</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>url</key>
+		<string>www.cnbeta.com</string>
+		<key>msg</key>
+		<string>I can because i think i can.</string>
+		<key>img</key>
+		<string>http://img.article.pchome.net/00/24/24/05/pic_lib/s960x639/027s960x639.jpg</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>url</key>
+		<string>www.google.com</string>
+		<key>msg</key>
+		<string>Action speak louder than words.</string>
+		<key>img</key>
+		<string>http://img1.3lian.com/img013/v5/27/d/84.jpg</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>url</key>
+		<string>www.apple.com</string>
+		<key>msg</key>
+		<string>Never say die.</string>
+		<key>img</key>
+		<string>http://img1.3lian.com/img013/v5/27/d/91.jpg</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>url</key>
+		<string>www.github.com</string>
+		<key>msg</key>
+		<string>Never put off what you can do today until tomorrow.</string>
+		<key>img</key>
+		<string>http://img1.3lian.com/img013/v5/27/d/87.jpg</string>
+	</dict>
+	<key>0</key>
+	<dict>
+		<key>url</key>
+		<string>www.gov.cn</string>
+		<key>msg</key>
+		<string>All for one, one for all.</string>
+		<key>img</key>
+		<string>http://img1.3lian.com/img013/v5/27/d/99.jpg</string>
+	</dict>
+</dict>
+</plist>
